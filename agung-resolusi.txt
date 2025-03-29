@@ -1,0 +1,4 @@
+Resolusi Agung :
+
+* menguasai looping dengan soal sulit
+* mempelajari python matplotlib, pandas, dan machine learning
